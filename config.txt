@@ -1,0 +1,5 @@
+proxies = None
+specificID = None
+sleep = 0
+token = None
+phone = None
