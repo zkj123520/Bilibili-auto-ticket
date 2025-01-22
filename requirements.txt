@@ -1,0 +1,7 @@
+pywin32  
+selenium
+plyer
+qrcode[pil]
+bili-ticket-gt-python
+requests
+ntplib
