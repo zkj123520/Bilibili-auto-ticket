@@ -63,6 +63,8 @@ python main.py      //抢票
 python geetest.py   //极验滑块验证（暂时废弃）
 ```
 
+如需打包使用请自行打包
+
 ### 新功能：微信公众号推送结果
 
 需要关注pushplus微信公众号，关注后激活，然后点击个人中心-获取token，在config.txt中填入token即可在需要验证或者抢票成功后收到微信公众号通知
